@@ -24,7 +24,7 @@ o que foi aprendido).
 
 | Módulo | Packet Tracer / Lab | Tópicos | Status |
 |--------|----------------------|---------|--------|
-| 1 — Networking Today | [Network Basics](./lab00-network-basics) | OSI, MAC, IP, ARP | ✅ Concluído |
+| 1 — DHCP4 | PRINTS NO DIA 15 DE AGOSTO| configuração de DHCP4 | ✅ Concluído |
 | 2 — Basic Switch and End Device Configuration | [Configuração Básica de Switch](./lab02-config-basica-switch) | Configuração inicial, portas de acesso | ⏳ Planejado |
 | 3 — Protocols and Models | *(a definir)* | Encapsulamento, TCP/UDP | ⏳ Planejado |
 | 4 — Physical Layer | *(a definir)* | Cabeamento, mídias de transmissão | ⏳ Planejado |
