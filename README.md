@@ -70,3 +70,14 @@ labXX-nome-do-lab/
 ---
 
 *Repositório em construção — novos labs são adicionados conforme avanço no curso.*
+
+
+
+
+
+
+
+
+DHCP4 CONFIGURAÇÃO
+
+![Segue prints da configuração dhcp4](topologiadhcp41.png)
